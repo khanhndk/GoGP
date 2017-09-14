@@ -1,0 +1,1 @@
+GOGP.exe -s 36 -ss 2 -t 2 -g 0.02 -lbd 0.004 -theta 0.9085 -k 3 -p1 0.1 -epoch 1 -pause 1 ../datasets/slice.shuffle_0.txt ../datasets/slice.shuffle_0.txt slice.log

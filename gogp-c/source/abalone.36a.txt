@@ -1,0 +1,7 @@
+rmse: -nan(ind)	mse: -nan(ind)	train: 2.346	test: 0.003	coresize: 6	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	
+rmse: 3.25891	mse: 10.6205	train: 2.104	test: 0.003	coresize: 7	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	
+rmse: 3.28206	mse: 10.7719	train: 2.17	test: 0.003	coresize: 7	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	
+rmse: 3.29866	mse: 10.8811	train: 2.134	test: 0.003	coresize: 7	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	
+rmse: 4.97552	mse: 24.7558	train: 2.136	test: 0.003	coresize: 7	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	
+rmse: 5.08485	mse: 25.8557	train: 1.958	test: 0.003	coresize: 7	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	
+rmse: 2.81048	mse: 7.89882	train: 0.32	test: 0.003	coresize: 7	epoch: 1	g: 0.02	k: 3	lbd: 0.02	p1: 0.1	s: 36	ss: 0	t: 2	theta: 0.9095	

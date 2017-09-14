@@ -1,0 +1,2 @@
+rmse_rate: 0.269623	rmse: 0.268432	mse: 0.0720556	train: 62.037	test: 0.652	coresize: 367	epoch: 1	g: 0.02	infostep: 100	k: 3	lbd: 0.004	p1: 0.1	s: 36	ss: 2	t: 2	theta: 0.6585	
+rmse_rate: 0.269763	rmse: 0.268332	mse: 0.0720019	train: 61.545	test: 0.618	coresize: 371	epoch: 1	g: 0.02	infostep: 100	k: 3	lbd: 0.004	p1: 0.1	s: 36	ss: 2	t: 2	theta: 0.6585	

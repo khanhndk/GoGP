@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="alg_type.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="cache.h">
+      <Filter>Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="kernel.h">
+      <Filter>Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="kernel_type.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="learner.h">
+      <Filter>Learner</Filter>
+    </ClInclude>
+    <ClInclude Include="mysimd.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="nolabel_q.h">
+      <Filter>Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="q_matrix.h">
+      <Filter>Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="report.h">
+      <Filter>Report</Filter>
+    </ClInclude>
+    <ClInclude Include="report_predict.h">
+      <Filter>Report</Filter>
+    </ClInclude>
+    <ClInclude Include="svm_model.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="svm_node.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="svm_parameter.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="svm_problem.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="gogp.h">
+      <Filter>Learner</Filter>
+    </ClInclude>
+    <ClInclude Include="report_regression.h">
+      <Filter>Report</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="cache.cpp">
+      <Filter>Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="kernel.cpp">
+      <Filter>Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="learner.cpp">
+      <Filter>Learner</Filter>
+    </ClCompile>
+    <ClCompile Include="mysimd.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="nolabel_q.cpp">
+      <Filter>Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="report.cpp">
+      <Filter>Report</Filter>
+    </ClCompile>
+    <ClCompile Include="report_predict.cpp">
+      <Filter>Report</Filter>
+    </ClCompile>
+    <ClCompile Include="svm_problem.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="gogp.cpp">
+      <Filter>Learner</Filter>
+    </ClCompile>
+    <ClCompile Include="report_regression.cpp">
+      <Filter>Report</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Model">
+      <UniqueIdentifier>{f55c05c7-15e6-4c7e-967a-1c6d6c299ed4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Learner">
+      <UniqueIdentifier>{27c584d6-d1d6-4f5f-9b0b-472ba2e3cbb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Report">
+      <UniqueIdentifier>{8962463c-c7ec-4bfa-9151-1e23bdc68bc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cache">
+      <UniqueIdentifier>{e0f9daeb-65db-4317-a062-d9790210a4fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{adb3afb4-684c-4c3a-828d-c87f59361839}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

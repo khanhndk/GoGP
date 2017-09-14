@@ -1,0 +1,1 @@
+GOGP.exe -mode 0 -s 36 -ss 2 -t 2 -g 0.02 -lbd 0.004 -theta 0.6585 -k 3 -p1 0.1 -epoch 1 -pause 1 -infostep 2000 ../datasets/casp.shuffle_2.txt ../datasets/casp.shuffle_2.txt casp.log

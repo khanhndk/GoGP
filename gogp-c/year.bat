@@ -1,0 +1,1 @@
+GOGP.exe -s 36 -ss 2 -t 2 -g 0.02 -lbd 0.00002 -theta 0.9995 -k 3 -p1 0.1 -epoch 1 -infostep 100 C:\Data\year.tu.sh2.txt C:\Data\year.tu.sh2.txt year.tu.36a.txt

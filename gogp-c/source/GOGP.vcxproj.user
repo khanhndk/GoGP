@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-s 36 -ss 0 -t 2 -g 0.02 -lbd 0.00002 -theta 0.9995 -k 3 -p1 0.1 -epoch 2 C:\Data\year.tu.sh0.txt C:\Data\year.tu.sh0.txt year.tu.sh0.36a.txt</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>$(OutDir)</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>-s 36 -ss 2 -t 2 -g 0.02 -lbd 0.004 -theta 0.6585 -k 3 -p1 0.1 -epoch 1 -infostep 100 C:\Data\casp.tu.sh2.txt C:\Data\casp.tu.sh2.txt casp.tu.36a.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
