@@ -3,8 +3,9 @@
 
 This is the released source code for:
 
-Trung Le, Khanh Nguyen, Vu Nguyen, Tu Dinh Nguyen, Dinh Phung (2018). _GoGP: Fast Online Regression with Gaussian Processes_. In Proceedings of the 20th International Conference on Data Mining (ICDM2018)
+Trung Le, Khanh Nguyen, Vu Nguyen, Tu Dinh Nguyen, Dinh Phung (2017). _GoGP: Fast Online Regression with Gaussian Processes_. In Proceedings of the 20th International Conference on Data Mining (ICDM2017)
 
+## C++ Version 
 + One-Click to run: We have already compile in Windows OS and wrote scripts to run with datasets:
 	- abalone.bat
 	- casp.bat
